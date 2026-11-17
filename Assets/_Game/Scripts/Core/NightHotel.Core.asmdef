@@ -1,0 +1,18 @@
+{
+  "name": "NightHotel.Core",
+  "rootNamespace": "NightHotel.Core",
+  "references": [
+    "NightHotel.Core.HSM",
+    "VContainer",
+    "UniTask"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

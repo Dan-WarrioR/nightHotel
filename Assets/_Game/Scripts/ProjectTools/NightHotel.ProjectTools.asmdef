@@ -1,0 +1,21 @@
+{
+  "name": "NightHotel.ProjectTools",
+  "rootNamespace": "NightHotel.ProjectTools",
+  "references": [
+    "NightHotel.Core",
+    "NightHotel.Core.HSM",
+    "NightHotel.GameData",
+    "NightHotel.Features"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

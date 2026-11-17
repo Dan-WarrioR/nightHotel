@@ -1,0 +1,14 @@
+{
+  "name": "NightHotel.Core.HSM",
+  "rootNamespace": "NightHotel.Core.HSM",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -30,6 +30,25 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 # Jetbrains Rider personal-layer settings
 *.DotSettings.user
+# Jetbrains Rider / IntelliJ workspace
+/.idea/
+
+# Visual Studio Code workspace
+/.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# FMOD Studio generated caches (Unity integration)
+/[Aa]ssets/Plugins/FMOD/[Cc]ache/
+/[Aa]ssets/Plugins/FMOD/[Cc]ache.meta
 
 # Visual Studio cache directory
 .vs/
